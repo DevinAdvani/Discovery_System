@@ -7,3 +7,6 @@ hopefully because this program is made of maths itself it gains the ability to a
 I think randomness is the best model of human intelligence. a true ai must be able to modify itself in a way outside of the limits of the creator. 
 
 I think im going to start with an integral discoverer
+
+
+maybe add in features like approximation but at the heart of it just a text manipulator
